@@ -101,7 +101,7 @@ Have questions, suggestions, or just want to connect? Reach out to us:
 
 <div align="center">
 
-![Organization Stats](https://github-readme-stats.vercel.app/api?username=Dumb-Kid-Root&show_icons=true&theme=radical&count_private=true)
+![Organization Stats](https://github-readme-stats.vercel.app/api/org?org=Dumb-Kid-Root&show_icons=true&theme=radical&count_private=true)
 
 </div>
 
