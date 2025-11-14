@@ -14,7 +14,8 @@
 
 <div align="center">
 
-# 🚀 Welcome to Dumb-Kid-Root
+### 🚀 Welcome to... 
+# Dumb Kid Root
 
 ### *Where Curiosity Meets Code*
 
