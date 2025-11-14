@@ -1,4 +1,18 @@
 <div align="center">
+  🚩🧡🕉️ || जय श्री राम || 🕉️🧡🚩
+</div>
+
+---
+
+<div>
+<blockquote align="center">"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन"<br/>
+  <em>"You have the right to work, but never to its fruits."</em><br/>
+  — भगवद् गीता 2.47 🚩</blockquote>
+</div>
+
+---
+
+<div align="center">
 
 # 🚀 Welcome to Dumb-Kid-Root
 
