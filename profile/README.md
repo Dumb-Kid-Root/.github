@@ -97,16 +97,6 @@ Have questions, suggestions, or just want to connect? Reach out to us:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Organization Stats](https://github-readme-stats.vercel.app/api/org?org=Dumb-Kid-Root&show_icons=true&theme=radical&count_private=true)
-
-</div>
-
----
-
 ## 🌟 Our Philosophy
 
 > *"The only way to learn programming is by writing programs."* – Dennis Ritchie
